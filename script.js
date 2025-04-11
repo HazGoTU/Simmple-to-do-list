@@ -36,9 +36,9 @@ function showTask(){
 }
 showTask();
 
-// const newWindow = document.getElementsByClassName("todo-app")
-// function addWindow(){
-//     let addNewWindow= docu/ment.getElementsByClassName("new-app");
-//     addNewWindow.innerHTML
+const newWindow = document.getElementsByClassName("todo-app")
+function addWindow(){
+    let addNewWindow= docu/ment.getElementsByClassName("new-app");
+    addNewWindow.innerHTML
 
-// }
+ }
